@@ -2,7 +2,7 @@
   {
     "gameId": "notepad_test_01",
     "name": "Benim Test Oyunum (Notepad++)",
-    "executablePath": "notepad++.exe",
+    "executablePath": "npp.8.8.2.Installer.x64.exe",
     "parts": [
       "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.4.2/npp.8.4.2.Installer.x64.exe"
     ]

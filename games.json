@@ -1,28 +1,11 @@
 [
   {
-    "ad": "Alfa_Quest",
-    "aciklama": "Harika bir RPG macerası!",
+    "ad": "Notepad++",
+    "aciklama": "Gelişmiş metin düzenleyici.",
     "parcalar": [
       "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.4.2/npp.8.4.2.Installer.x64.exe"
     ],
     "tip": "exe"
-  },
-  {
-    "ad": "Beta_Space_Racer",
-    "aciklama": "Hızlı ve öfkeli uzay yarışları. (Çok parçalı RAR)",
-    "parcalar": [
-      "http://senin_sunucun.com/oyunlar/beta_space_racer.part1.rar",
-      "http://senin_sunucun.com/oyunlar/beta_space_racer.part2.rar",
-      "http://senin_sunucun.com/oyunlar/beta_space_racer.part3.rar"
-    ],
-    "tip": "rar"
-  },
-  {
-    "ad": "Gama_City_Builder",
-    "aciklama": "Kendi şehrini kur ve yönet.",
-    "parcalar": [
-      "http://senin_sunurcun.com/oyunlar/gama_city_builder.zip"
-    ],
-    "tip": "zip"
   }
+]
 ]
